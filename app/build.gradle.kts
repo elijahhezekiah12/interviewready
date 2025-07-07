@@ -12,7 +12,7 @@ android {
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.gauravbajaj.experiment"
+        applicationId = "com.gauravbajaj.interviewready"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
